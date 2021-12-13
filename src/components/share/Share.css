@@ -1,0 +1,11 @@
+li {
+  float: left;
+  width: 33%;
+  height: 100%;
+  list-style: none;
+}
+
+.Share-container {
+  max-width: 1440px;
+  background-color: #683a2f;
+}
