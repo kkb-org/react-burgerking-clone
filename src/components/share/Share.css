@@ -1,11 +1,33 @@
+ul {
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding-inline-start: 0;
+}
+
 li {
+  /* position: relative; */
   float: left;
-  width: 33%;
+  width: 33.333%;
   height: 100%;
   list-style: none;
+  margin: 0;
+  padding: 0;
+  display: list-item;
+  text-align: -webkit-match-parent;
 }
 
 .Share-container {
   max-width: 1440px;
   background-color: #683a2f;
+  height: 189px;
+  margin: 0;
+  /* box-sizing: border-box; */
 }
+
+
+
+
+

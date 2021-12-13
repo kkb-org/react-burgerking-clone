@@ -1,0 +1,37 @@
+.Sns-container {
+  background-position: center 45px;
+  background-repeat: no-repeat;
+  background-size: 47px auto;
+  padding-top: 102px;
+}
+
+.Sns-title {
+  display: block;
+  font-size: 0.875rem;
+  color: #fff;
+  word-wrap: normal;
+  word-break: keep-all;
+  font-style: normal;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-variant-east-asian: normal;
+  font-stretch: normal;
+  line-height: normal;
+  font-weight: bold;
+}
+
+.Status {
+  display: inline-block;
+  height: 18.5px;
+  margin-top: 10px;
+  font-size: 0.5rem;
+  line-height: 18.5px;
+  border-radius: 3px;
+  padding: 0 9px 0 33px;
+  color: #2e2e2e;
+  font-weight: bold;
+  background-position: 7px;
+  background-color: #fff;
+  background-repeat: no-repeat;
+}

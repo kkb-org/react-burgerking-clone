@@ -1,6 +1,7 @@
 body {
   word-wrap: normal;
   word-break: keep-all;
+  font-family: "Malgun Gothic", "굴림", "Gulim", "Arial";
 }
 
 .App {
