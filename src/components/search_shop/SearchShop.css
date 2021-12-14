@@ -1,0 +1,73 @@
+.Title {
+  font-family: dabanggu;
+  font-weight: 400;
+}
+
+.Content {
+}
+
+.Search-link {
+  background: #d72300;
+  border-radius: 25px;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+  font-family: dabanggu;
+  box-sizing: border-box;
+  width: 140px;
+  padding: 3px 10px;
+  border: 1px solid #d72300;
+  margin: 0;
+  text-decoration: none;
+  outline: none;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.Category-list {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  color: #2e2e2e;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .Search-link {
+    height: 32px;
+    line-height: 26px;
+    min-width: 158px;
+    font-size: 1.125rem;
+    background-size: 100% 100% !important;
+  }
+
+  .Search-link-text {
+    height: 23px;
+  }
+
+  .Title {
+    font-size: 1.5rem;
+  }
+
+  .Content {
+    font-size: 0.75rem;
+  }
+
+  .Category-list {
+    font-size: 0.75rem;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .Search-link {
+    height: 50px;
+  }
+
+  .Title {
+    font-size: 3rem;
+  }
+
+  .Content {
+    font-size: 1.5rem;
+  }
+}

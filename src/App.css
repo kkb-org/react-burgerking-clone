@@ -1,7 +1,7 @@
 body {
   word-wrap: normal;
   word-break: keep-all;
-  font-family: "Malgun Gothic", "굴림", "Gulim", "Arial";
+  font-family: HGG, "Malgun Gothic", "굴림", "Gulim", "Arial";
 }
 
 .App {
@@ -30,4 +30,14 @@ body {
   to {
     transform: rotate(360deg);
   }
+}
+
+@font-face {
+  font-family: HGG;
+  src: url(./public/font/SDGothicNeoRound.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: dabanggu;
+  src: url(./public/font/Typo_Dabanggu.woff2) format("woff2");
 }

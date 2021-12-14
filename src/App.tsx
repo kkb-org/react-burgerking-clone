@@ -5,6 +5,8 @@ import Header from "./components/headers/Header";
 import ExtendedHeader from "./components/headers/ExtendedHeader";
 import Video from "./components/video/Video";
 import Share from "./components/share/Share";
+import HomeGuide from "./components/home_guide/HomeGuide";
+import SearchShop from "./components/search_shop/SearchShop";
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
 
       <Video />
       <Share />
+      <HomeGuide />
+      <SearchShop />
     </div>
   );
 }

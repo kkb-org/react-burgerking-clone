@@ -1,0 +1,6 @@
+.Home-guide-item {
+  display: inline-block;
+  width: 50%;
+  min-height: inherit;
+  background-size: cover;
+}

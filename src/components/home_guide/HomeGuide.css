@@ -1,0 +1,35 @@
+.Home-guide {
+  display: flex;
+  min-height: 322px;
+  max-height: 480px;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.Home-guide-text {
+  font-style: normal;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-variant-east-asian: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: normal;
+  font-family: "Malgun Gothic", "맑은 고딕", dotum, 돋움, sans-serif;
+  color: #fff;
+  font-size: 17px;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+@media screen and (max-width: 767px) {
+  .Home-guide {
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .Home-guide {
+  }
+}
