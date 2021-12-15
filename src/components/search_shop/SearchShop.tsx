@@ -25,7 +25,7 @@ const SearchShop = (props: any) => {
 
         <ul className="Category-list">
           <Category text="딜리버리" backgroundImage={deliveryIcon} />
-          <Category text="킹오더" backgroundImage={driveIcon} />
+          <Category text="킹오더" backgroundImage={kingIcon} />
           <Category text="드라이브 스루" backgroundImage={driveIcon} />
           <Category text="24시간" backgroundImage={twoFourIcon} />
           <Category text="아침메뉴" backgroundImage={morningIcon} />

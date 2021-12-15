@@ -38,6 +38,16 @@ body {
 }
 
 @font-face {
+  font-family: HGGBold;
+  src: url(./public/font/SDGothicNeoRoundBold.woff2) format("woff2");
+}
+
+@font-face {
   font-family: dabanggu;
   src: url(./public/font/Typo_Dabanggu.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: dabanggu2;
+  src: url(./public/font/Typo_Dabanggu2.woff2) format("woff2");
 }
